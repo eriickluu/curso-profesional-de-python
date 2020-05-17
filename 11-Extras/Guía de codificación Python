@@ -1,0 +1,26 @@
+Es de suma importancia que nosotros tengamos una forma estandarizada de codificación y siempre nos concentremos en codificar de la misma manera, 
+recordemos que muy probablemente a nuestros proyectos les tengamos que dar mantenimiento o tengamos que incorporar más desarrolladores al mismo, 
+en cualquier caso, codificar bajo un estándar nos permitirá crear proyectos de más alta calidad.
+
+En Python existe los PEP's, Mejoras de propuestas de Python, de los cuales al momento de codificar nos interesa PEP8.
+
+PEP8 Es una guía de codificación, la cual nos permite escribir código Python de una manera, mucho más legible y 
+de forma consistente, a través de ciertas "reglas" y recomendaciones. Por ejemplo, en la guía podemos encontrar:
+
+utilizar espacios sobre tabs.
+
+utilizar la nomenclatura de snake case para nombrar variables.
+
+utilizar palabras en mayúsculas para las constantes.
+
+    Colocó "reglas" entre comillas ya que nosotros podemos crear un programa cien por ciento funcional sin habernos guiado de PEP8, 
+    simplemente siendo constantes al momento de codificar.
+
+Si por algún motivo creemos que nuestra forma de codificar Python es errónea o queremos implementar al pie de la letra la guía, podemos validar nuestro 
+código en la siguiente página web, basta con copiar el código del cual tenemos duda y validar.
+
+    Si quieres crear una librería, te recomiendo validar todo tu código.
+
+https://www.python.org/dev/peps/
+https://www.python.org/dev/peps/pep-0008/
+http://pep8online.com/

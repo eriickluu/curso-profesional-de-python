@@ -1,0 +1,20 @@
+Lenguajes compilados
+Es aquel que requiere de un compilador
+el compilador es otro porgrama que toma el codigo fuente y crea un archivo ejecutable 
+este archivo ahora esta escrito en un Lenguaje que ahora la computadora puede entender
+Algunos Lenguajes compilados son:
+Java
+C++ 
+C#
+
+Lenguajes interpretados
+Necesitan de un interprete 
+el interprete va línea por línea hasta 
+algunos Lenguajes interpretados son:
+PHP
+Ruby
+Python 
+
+Python es interpretado o compilado?
+Es ambos 
+Existen algunos procesos donde python compila varios procesos

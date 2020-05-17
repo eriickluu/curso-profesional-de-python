@@ -1,0 +1,63 @@
+¿QUÉ SIGUE AHORA?
+Si te encuentras leyendo, esto muy probablemente hayas concluido el curso profesional de Python. Quizás te estés preguntando ¿Qué sigue ahora? ¿Donde puedo aplicar mis conocimientos? ¿Qué proyecto puedo realizar?. 
+Este pequeño post es para aclarar esas interrogantes. Verás, como mencionamos anteriormente o como tú ya habrás podido investigar, Python tiene muchísimas áreas donde puede ser aplicado, 
+ciencias computacionales, ciencias de datos, análisis matemáticos, python del lado del servidor ya sea para páginas web dinámicas, para servidor de archivos, para crear APIs, generar micro servicios, 
+python del lado del cliente, para consumir servicios web, interfaces gráficas, modelados en 2D o 3D, vaya la cantidad de cosas que podemos hacer es sin duda muy grande (Casi de todo).
+
+Afortunadamente en CódigoFacilito tenemos una biblioteca de cursos, talleres, artículos y vídeos los cuales puedes tomar sin ningún tipo de problema (Ya tienes las bases y más). Todo este contenido
+ te permitirán subir de nivel con desarrollador Python, con temas completamente nuevos y desafiantes.
+
+WEB
+
+Actualmente una de las áreas que más esta creciendo es la programación para aplicaciones webs. Si lo tuyo es esta área, habrá dos frameworks que tengo que recomendarte, Flask y Django,
+ con ambos puedes crear una página web, cien por ciento funcional, listo para que los usuarios la utilicen, con muy pocas líneas de código y claro, en muy poco tiempo.
+
+Si tus conocimientos son nulos acerca de web, te recomiendo que comiences con el curso de Flask , la curba de aprendizaje es muy baja y solo tendrás código que necesites.
+
+Si por el otro lado, ya cuentas con conocimientos de web o quieres realizar un proyecto mucho más robusto, puedes tomar el curso de Django. Una vez termines el curso, 
+puedes tomar el curso de Administrador de proyectos para aprender más a fondo este Framework Web.
+
+Si tu aplicacion ya esta lista, nada mejor que tenga su propia API y con los talleres de REST API con Django y Crea una REST API con Flask podrás lograrlo.
+
+Para complementar ambos cursos y talleres puedes ver los siguientes vídeos
+
+Ajax con Django
+
+Deploy de Python en Heroku
+
+BASE DE DATOS
+
+Es inegable que ahora todos nuestro programas deben de tener una base de datos, así que el curso de Base de datos con Python es completamente obligatorio.
+
+En este curso trabajamos con dos motores de bases de datos, MySQL y MondoDB. Trabajamos con SQL (Lenguaje estructurado de consultas), con un ORM (Mapeo de objetos relacionales) y claro con diccionarios.
+
+DEL LADO DEL CLIENTE
+
+Por parte del cliente, no nos quedamos atrás, tenemos un curso y un taller que involucran temas web.
+
+El curso de consumir APIs con Python te permitirá trabajar con los diccionarios más afondo, así como comenzar a realizar peticiones con el protocolo HTTP, una vez sepas como consumir un servicio web 
+dejame decirte que estas listo para lo que sea.
+
+Por otro lado tenemos el taller de web scrapper con Python donde te enseñamos a como obtener datos de una página web simulando ser un usuario. En este taller de igual forma trabajaremos con MongoDB.
+
+MANEJO DE IMÁGENES
+
+Algo a lo que le podemos sacar mucho provecho es a la manipulación de imagenes, en el curso de Imagenes con Python podrás crear y editar las imágenes que desees con solo una librería.
+
+BOTS
+
+Uno de los cursos donde prácticamente aplicarás todos los conocimientos de todos los cursos y talleres mencionados anteriormente será el curso de creación de bots. En este curso te enseñamos a realizar un 
+bot de facebook messenger, trabajamos con una base de datos, con threads, con un servidor web, consumimos un servicio web de Facebook y ya no se digan las listas, tuplas, diccionarios, funciones, clases etc...
+
+De hecho uno podría pensar que el único taller que no está involucrado es el de manipulación de imágenes, pero no es así, ya que tenemos el taller de Manejo de servicios cognitivos de microsoft 
+donde a nuestro bot le agregamos la funcionalidad de modificar una imagen que un cliente nos mande.
+
+AÚN NO SE ACABA
+
+En Código Facilito estamos siempre en constante actualización, de tal manera que siempre nos encontramos sacando cursos y talleres completamente nuevos, siempre pensando en lo que los desarrolladores necesitan para
+su vida profesional. Así que no te preocupes si el curso que estabas buscando no lo encontraste en este post, muy probablemente ya se encuentre en desarrollo por parte del equipo
+y si no es así, no dudes en comentarlo :D.
+
+    Spoiler se vienen cursos y talleres de Pruebas unitarias, Videojuegos Y Programación concurrente
+
+    Actualización ya contamos con el nuevo Curso de testing.

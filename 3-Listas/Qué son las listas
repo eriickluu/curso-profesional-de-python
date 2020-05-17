@@ -1,0 +1,23 @@
+Además de los tipos de datos que hemos venido utilizando, también existen otros tipos de datos más complejos como las listas.
+
+Las listas, en Python, son concretamente una estructura de datos. Esto quiere decir que son un tipo de dato que nos permite manejar grandes cantidades de datos.
+
+Para declarar una lista seguimos las mismas reglas que hemos venido manejando:
+nombre_variable = valor
+lista = []
+
+En este caso, como es una lista, colocamos corchetes. Esto define que nuestra variable será del tipo lista.
+
+¿En qué punto la lista maneja otros datos?
+Nuestra lista nos permitirá almacenar otros tipos de datos, todos los que hemos mencionado con anterioridad. Inclusive, puede almacenar otras listas.
+
+Basta con que coloquemos los valores dentro de los corchetes separados por comas. Podemos almacenar n-strings, n-números, etc. Ejemplo: [x, y, z]
+
+En otros lenguajes, las listas serían comparables con los arreglos. Sin embargo, la diferencia, es que las listas pueden cambiar de tamaño en tiempo de ejecución. 
+Pueden crecer o decrecer.
+
+Aunque podemos crear listas que mezclen todos los tipos de datos, lo más común es crear listas de un solo tipo. Es decir, una lista de sólo strings, 
+de sólo booleanos, de sólo números, de sólo flotantes.
+
+Es importante mencionar que todos los valores almacenados dentro de una lista les va a corresponder una posición dentro de esta. De esta forma podemos referirnos a un valor por su índice. 
+Los índices comienzan con cero, mientras que el último índice de la lista se calcula a través de length-1.

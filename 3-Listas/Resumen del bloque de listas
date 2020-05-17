@@ -1,0 +1,15 @@
+Hola, en video del resumen, se comenta de algunos "Metodos" de listas que se mostraron, como:
+
+.count()
+.append()
+.insert()
+.remove()
+.index()
+.clear()
+.sort()
+
+Pero de todos ellos, falto que se explicara:
+.append()
+.insert()
+.remove()
+.clear()

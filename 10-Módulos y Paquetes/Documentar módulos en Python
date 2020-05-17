@@ -1,0 +1,58 @@
+Cuando nos encontremos trabajando con módulos, es una buena práctica de programación que nosotros documentamos estos, más aún, cuando pensamos en liberarlos.
+
+Para documentar un módulo requerimos trabajar con comentarios.
+
+"""Documentación del módulo.
+Esta es una anotación la cual debe de encontrarse
+en la parte superior de nuestro script.
+Esta anotación tiene cómo objetivo describir el módulo"""
+
+__author__ = "Eduardo Ismael García Pérez"
+__copyright__ = "Copyright 2017, CodigoFacilito"
+__credits__ = ["CodigoFacilito", "Rafael Alvarez", "Luis Enrique"]
+__license__ = "GPL"
+__version__ = "1.0.1"
+__maintainer__ = "Team CodigoFacilito"
+__email__ = "eduardo @ codigofacilito.com"
+__status__ = "Production"
+
+def funcion_a():
+  """Cómo sabemos podemos documentar una función de esta manera."""
+  pass
+
+def funcion_b():
+  """Podemos
+    colocar
+    saltos de línea
+  """
+  pass
+
+def funcion_c(a=0, b=0):
+  """Podemos dar más detalles de los parámetro
+    a -- parámetro (default 0)
+    b -- parámetro (default 0)
+  """
+  pass
+
+class MyModulo:
+  """Documentación de nuestra clase"""
+
+  def metodo(self):
+    """Documentación de nuestro método"""
+    pass
+Cómo observamos nuestro script cuenta con tres funciones, una clase y su correspondiente documentación.
+
+El primer comentario es de suma importancia ya que es aquí donde describiremos al módulo, que es lo que hace, que es lo que no hace, cómo funciona, cómo usarlo, entre otras anotaciones que necesitemos colocar, posteriormente podemos colocar algunos metadatos. Los metadatos más comunes son los ocho que podemos observar, sin embargo, si nosotros lo necesitamos podemos agregar los nuestros.
+
+    Para que pueda considerarse un metadato debemos de colocar doble guión bajo al inicio y doble guión bajo al final.
+
+Una vez hayamos documentado el script podemos pasar a documentar puntualmente las funciones y las clases.
+
+Si requerimos visualizar la documentación de un módulo basta con un utilizar la función help.
+
+import mi_modulo
+help(mi_modulo)
+
+    Para salir de la documentación basta con presionar q
+
+De esta forma estaremos documentando nuestros módulos sin requerir utilizar algún software adicional.
